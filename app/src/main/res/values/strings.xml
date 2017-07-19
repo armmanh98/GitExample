@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">GitExample</string>
     <string name="master">Master</string>
+    <string name="mybranch1">myBranch1</string>
 </resources>
